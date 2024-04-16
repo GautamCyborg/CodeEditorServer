@@ -13,8 +13,8 @@
     "express": "^4.18.2",
     "socket.io": "^4.7.2",
     "socket.io-client": "^4.7.2"
-  }
+  },
  "scripts": {
-    "build": "mkdir -p dist && cp -R src/* dist/" // Replace "tsc" with your actual build command
+    "build": "mkdir -p dist && cp -R src/* dist/" 
   }
 }
